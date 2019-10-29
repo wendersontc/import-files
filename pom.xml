@@ -12,7 +12,7 @@
 	<artifactId>import-files</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>import-files</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Import Files</description>
 
 	<properties>
 		<java.version>1.8</java.version>
