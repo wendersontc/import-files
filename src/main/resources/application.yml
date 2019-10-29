@@ -1,0 +1,12 @@
+spring:
+ application:
+   name: import-files
+
+import:
+ file:
+  extension: .dat
+  name:
+   out: final.done
+ folder:
+  in: /data/in/
+  out: /data/out/
